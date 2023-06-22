@@ -3,7 +3,7 @@
  
  ## Total Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masimellomi&show_icons=true&icon_color=FFFFFF&hide=issues,contribs&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,BE93C5,7BC6CC)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masimellomi&layout=compact&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masimellomi&layout=compact&theme=dracula)
  
  
  ## Programming Skills
